@@ -22,10 +22,8 @@ Aqui compartilho meus projetos, habilidades e aprendizados na área de **Desenvo
 ## 🔗 Acesse o portfólio
 Você pode visualizar meu portfólio online clicando no link abaixo:  
 
+ https://williammrodrigues.github.io/Portfolio/ 
 
-👉 [Ver Portfólio](https://williamMRodrigues.github.io/portfolio)  
-
-*(O link acima funciona se o GitHub Pages estiver ativado para este repositório. Caso o nome do repositório seja diferente de `portfolio`, substitua pelo nome correto.)*
 
 ## 📫 Contato
 Se quiser entrar em contato comigo:  
