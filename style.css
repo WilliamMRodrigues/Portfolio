@@ -1,4 +1,11 @@
 /* Estilo base */
+.card img {
+  max-width: 150px;   /* largura máxima */
+  height: auto;       /* mantém proporção */
+  display: block;
+  margin: 0 auto 10px; /* centraliza a imagem */
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
